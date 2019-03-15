@@ -1,4 +1,14 @@
 def rectangle(w, h):
+    """[calculate rectangle]
+    
+    Arguments:
+        w {[float]} -- [width]
+        h {[float]} -- [height]
+    
+    Returns:
+        [float] -- [rectangle]
+    """
+
     area = w * h
     return area
 
